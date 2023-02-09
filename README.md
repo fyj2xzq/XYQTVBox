@@ -1,5 +1,3 @@
-<img src="weixinqrcode.png" width="100">
-
 # XYQTVBox说明文档
 海阔端推送相关规则
 https://pd.qq.com/s/553sflwje?shareSource=5
@@ -39,3 +37,6 @@ github开源地址 https://github.com/q215613905/TVBoxOS
 多仓版配置接口（首页点多仓/配置按钮后输入）
 
 clan://localhost/XYQTVBox/hiker_store.json
+
+
+<img src="weixinqrcode.png" width="300">
