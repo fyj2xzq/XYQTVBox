@@ -1,3 +1,5 @@
+<img src="weixinqrcode.png" width="100">
+
 # XYQTVBox说明文档
 海阔端推送相关规则
 https://pd.qq.com/s/553sflwje?shareSource=5
